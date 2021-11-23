@@ -14,6 +14,6 @@ pip install mypy
 ```
 
 ```console
-mypy palindrome.py --check-untyped-defs
+mypy advanced/Typing/experiment4.py --check-untyped-defs
 ```
 
